@@ -1,0 +1,2 @@
+# gizlilik
+gizlilik sözleşmesi
